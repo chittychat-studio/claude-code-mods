@@ -1,0 +1,6 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Shows the tokens each Claude turn uses beside the spinner, and adds a /tokens command for the session total",
+  "author": { "name": "CorporateChittyChat" }
+}
